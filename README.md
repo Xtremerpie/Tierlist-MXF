@@ -9,3 +9,5 @@
 - `POST /api/bot/gamemodes/add` `{name}`
 
 Characters and skins: edit `lib/characters.ts`. Tier order and points live in the `tiers` table.
+
+Made by Xtremeprie
